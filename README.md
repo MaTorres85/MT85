@@ -3,7 +3,7 @@
 
 #### I'm Matheus Torres
 
-"I love my family with the same intensity that I program for the web - dedication and care in every line of code and every moment together."
+“I'm the creative who designs the web of the future with the latest technologies."
 
 ##
 
@@ -14,14 +14,14 @@
 
 ##
 
-<b>My contacts are:</b><br>
+<b>Contacts:</b><br>
 📧 : <a href="mailto:mt@matheustorres.com">mt@matheustorres.com</a><br>
 📱 : <a href="https://wa.me/4407415952646">07415 952646</a><br>
 🌐 : <a href="http://matheustorres.com">matheustorres.com</a><br>
 
 ##
 
-<b>My languages:</b><br>
+<b>Skills:</b><br>
 <div style="display: inline_block">
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
