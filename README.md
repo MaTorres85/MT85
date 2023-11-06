@@ -16,7 +16,7 @@
 
 <b>My contacts are:</b><br>
 📧 : <a href="mailto:mt@matheustorres.com">mt@matheustorres.com</a><br>
-📱 : <a href="https://wa.me/4407415952646">07415 952646</a> - Whatsapp<br>
+📱 : <a href="https://wa.me/4407415952646">07415 952646</a><br>
 🌐 : <a href="http://matheustorres.com">matheustorres.com</a><br>
 
 ##
