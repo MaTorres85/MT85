@@ -23,7 +23,7 @@
 ##
 
 <b>Skills:</b><br>
-<img src="https://github.com/matorrestech/matorrestech/blob/main/Skills.png">
+<img src="https://github.com/matorrestech/matorrestech/blob/main/skills.png">
 
 ##
 
