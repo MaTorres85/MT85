@@ -8,8 +8,12 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matorrestech&theme=blue" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matorrestech&theme=blue" target="_blank">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=matorrestech&theme=default" target="_blank">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matorrestech&theme=default_repocard" target="_blank">
+  </div>
 </div>
 
 ##
