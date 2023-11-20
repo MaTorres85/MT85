@@ -16,10 +16,10 @@
 
 <b>Contacts:</b><br>
 <p>I love to collaborate and make awesome content. Let’s talk!<p/>
-<b>Email: </b><a href="mailto:mt@matheustorres.com">mt@matheustorres.com</a><br><br>
-<b>Phone: </b><a href="https://wa.me/4407415952646">07415 952646</a><br><br>
-<b>Location: </b>Bournemouth - UK<br><br>
-<b>Portfolio: </b><a href="http://matheustorres.com">matheustorres.com</a>
+<img src="https://github.com/matorrestech/matorrestech/blob/main/envelope-solid.svg"> : <a href="mailto:mt@matheustorres.com">mt@matheustorres.com</a><br><br>
+<img src="https://github.com/matorrestech/matorrestech/blob/main/mobile-solid.svg"> : <a href="https://wa.me/4407415952646">07415 952646</a><br><br>
+<img src="https://github.com/matorrestech/matorrestech/blob/main/location-dot-solid.svg"> : Bournemouth - UK<br><br>
+<img src="https://github.com/matorrestech/matorrestech/blob/main/globe-solid.svg"> : <a href="http://matheustorres.com">matheustorres.com</a>
 
 ##
 
