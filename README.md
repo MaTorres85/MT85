@@ -2,8 +2,8 @@
 
 
 
-<div align="center"><h2>"I'm the creative who designs the web of the future with the latest technologies."</h2></div>
-<p align="justify">As a passionate web developer with a background in Web Development, I am consistently immersed in the latest technologies, seeking innovation to create exceptional online experiences. With extensive knowledge in programming languages, website design, performance optimization, and security, my commitment to delivering high-quality solutions is driven not only by my passion for technology but also by my dedication to my family. I am always ready to embrace exciting challenges, and with this mindset, I am poised to turn your vision into a compelling online reality.</p>
+<div align="center"><h2>Freelance Web Developer and Designer specializing in React.js.</h2></div>
+<p align="justify">As a creative programmer, I constantly seek innovation, utilizing the latest available technologies. My education and passion for technology drive my commitment to providing engaging and visually impactful digital solutions. I am dedicated to turning concepts into reality and contributing to the advancement of the technological landscape.</p>
 
 ##
 
