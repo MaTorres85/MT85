@@ -9,8 +9,8 @@
 
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=matorrestech&theme=dark" target="_blank" height="200px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matorrestech&theme=dark" target="_blank" height="200px">
+    <img src="https://github-readme-stats.vercel.app/api?username=matorrestech&theme=navy_blue" target="_blank" height="200px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matorrestech&theme=navy_blue" target="_blank" height="200px">
   </div>
 </div>
 <br/>
