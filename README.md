@@ -2,8 +2,8 @@
 
 
 
-<div align="center"><h2>Freelance Web Developer and Designer specializing in React.js.</h2></div>
-<p align="justify">As a creative programmer, I constantly seek innovation, utilizing the latest available technologies. My education and passion for technology drive my commitment to providing engaging and visually impactful digital solutions. I am dedicated to turning concepts into reality and contributing to the advancement of the technological landscape.</p>
+<div align="center"><h2>FRONT-END Development Specialist.</h2></div>
+<p align="justify">As a Front-End Software Engineer, I transform designs into efficient and innovative digital experiences, ensuring quality and high performance to bring your project to life.</p>
 
 ##
 
