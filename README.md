@@ -27,7 +27,7 @@
 
 <h2>Skills</h2>
 
-<img src="https://github.com/matorrestech/matorrestech/blob/main/skills.png">
+<img src="https://github.com/matorrestech/matorrestech/blob/main/languages.png">
 
 ##
 
