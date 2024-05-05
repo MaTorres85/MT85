@@ -20,7 +20,7 @@
 
 <br>
 
-<p>Let's talk about programming, design, or dive into my hobbies like artificial intelligence and family time?</p>
+<p align="center">Let's talk about programming, design, or dive into my hobbies like artificial intelligence and family time?</p>
   <h3>Connect with me on social media!</h3>
 
 <img style width="20px" src="https://github.com/matorrestech/matorrestech/blob/main/email.svg"> : <a href="mailto:mt@matheustorres.com" target="_blank">mt@matheustorres.com</a><br>
