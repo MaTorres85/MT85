@@ -31,7 +31,7 @@
 
 <br>
 
-<div gap="20px">
+<div margin="20px">
   <a href="https://www.instagram.com/matorrestech" target="_blank"><img src="https://github.com/matorrestech/matorrestech/blob/main/instagram.png"> </a>
   <a href="https://www.linkedin.com/in/matorrestech/" target="_blank"><img src="https://github.com/matorrestech/matorrestech/blob/main/linkedin.png"> </a>
   <a href="https://matheustorres.com" target="_blank"><img src="https://github.com/matorrestech/matorrestech/blob/main/globe.svg"></a>
