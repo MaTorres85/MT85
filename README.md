@@ -13,10 +13,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matorrestech&theme=dracula" target="_blank" height="200px">
   </div>
 </div>
-<br/>
+
 ##
 
-<b>Contacts:</b><br>
+##<b>Contacts:</b><br>
 <p>I love to collaborate and make awesome content. Let’s talk!<p/>
 <img style width="17px" src="https://github.com/matorrestech/matorrestech/blob/main/envelope-solid.svg"> : <a href="mailto:mt@matheustorres.com" target="_blank">mt@matheustorres.com</a><br><br>
 <img style width="17px" src="https://github.com/matorrestech/matorrestech/blob/main/mobile-solid.svg"> : <a href="https://wa.me/4407415952646" target="_blank">07415 952646</a><br><br>
@@ -25,7 +25,7 @@
 
 ##
 
-<b>Skills:</b><br>
+##<b>Skills:</b><br>
 
 <img src="https://github.com/matorrestech/matorrestech/blob/main/skills.png">
 
