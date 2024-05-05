@@ -13,11 +13,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matorrestech&theme=dracula" target="_blank" height="200px">
   </div>
 </div>
-
-<br><br>
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/matorrestech/matorrestech)
-
   
 <br><br>
 
