@@ -3,7 +3,7 @@
 
 
 <div align="center"><h2>FRONT-END Development Specialist.</h2></div>
-<p align="justify">As a Front-End Software Engineer, I transform designs into efficient and innovative digital experiences, ensuring quality and high performance to bring your project to life.</p>
+<p align="center">As a Front-End Software Engineer, I transform designs into efficient and innovative digital experiences, ensuring quality and high performance to bring your project to life.</p>
 
 ##
 
