@@ -21,6 +21,7 @@
 <br>
 
 <h3>Let's talk about programming, design, or dive into my hobbies like artificial intelligence and family time?</h3>
+<br>
   
 <a href="mailto:mt@matheustorres.com" target="_blank"><img style width="25px" src="https://github.com/matorrestech/matorrestech/blob/main/email.svg"> : mt@matheustorres.com</a><br><br>
 <a href="https://wa.me/4407415952646" target="_blank"><img style width="25px" src="https://github.com/matorrestech/matorrestech/blob/main/mobile.svg"> : 07415 952646</a><br><br>
@@ -30,6 +31,7 @@
 <br>
 
  <h3>Connect with me on social media!</h3>
+<br>
 
 <div >
   <a href="https://www.instagram.com/matorrestech" target="_blank"><img src="https://github.com/matorrestech/matorrestech/blob/main/instagram.png"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
