@@ -13,10 +13,10 @@
 </div>
 
 <h3>I love to collaborate and make awesome content. Let’s talk!</h3>
-<img style width="17px" src="https://github.com/matorrestech/matorrestech/blob/main/email.svg"> : <a href="mailto:mt@matheustorres.com" target="_blank">mt@matheustorres.com</a><br><br>
-<img style width="17px" src="https://github.com/matorrestech/matorrestech/blob/main/mobile.svg"> : <a href="https://wa.me/4407415952646" target="_blank">07415 952646</a><br><br>
-<img style width="17px" src="https://github.com/matorrestech/matorrestech/blob/main/location.svg"> : <a href="https://www.google.com/maps/place/Bournemouth/@50.7540041,-1.8597388,12z/data=!3m1!4b1!4m6!3m5!1s0x487398a0b1a067fd:0x3b2ee0156ba92c94!8m2!3d50.7220101!4d-1.8667169!16zL20vMDE2MWpq?entry=ttu" target="_blank">Bournemouth - UK</a><br><br>
-<img style width="17px" src="https://github.com/matorrestech/matorrestech/blob/main/globe.svg" target="_blank"> : <a href="http://matheustorres.com">matheustorres.com</a>
+<img style width="20px" src="https://github.com/matorrestech/matorrestech/blob/main/email.svg"> : <a href="mailto:mt@matheustorres.com" target="_blank">mt@matheustorres.com</a>
+<img style width="20px" src="https://github.com/matorrestech/matorrestech/blob/main/mobile.svg"> : <a href="https://wa.me/4407415952646" target="_blank">07415 952646</a>
+<img style width="20px" src="https://github.com/matorrestech/matorrestech/blob/main/location.svg"> : <a href="https://www.google.com/maps/place/Bournemouth/@50.7540041,-1.8597388,12z/data=!3m1!4b1!4m6!3m5!1s0x487398a0b1a067fd:0x3b2ee0156ba92c94!8m2!3d50.7220101!4d-1.8667169!16zL20vMDE2MWpq?entry=ttu" target="_blank">Bournemouth - UK
+<img style width="20px" src="https://github.com/matorrestech/matorrestech/blob/main/globe.svg" target="_blank"> : <a href="http://matheustorres.com">matheustorres.com</a>
 
 <img src="https://github.com/matorrestech/matorrestech/blob/main/p-languages.png">
 
