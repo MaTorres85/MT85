@@ -16,7 +16,7 @@
 
 ##
 
-<h3>Contacts</h3><br>
+<h2>Contacts</h3>
 <p>I love to collaborate and make awesome content. Let’s talk!<p/>
 <img style width="17px" src="https://github.com/matorrestech/matorrestech/blob/main/envelope-solid.svg"> : <a href="mailto:mt@matheustorres.com" target="_blank">mt@matheustorres.com</a><br><br>
 <img style width="17px" src="https://github.com/matorrestech/matorrestech/blob/main/mobile-solid.svg"> : <a href="https://wa.me/4407415952646" target="_blank">07415 952646</a><br><br>
@@ -25,7 +25,7 @@
 
 ##
 
-##<b>Skills:</b><br>
+<h2>Skills</h2>
 
 <img src="https://github.com/matorrestech/matorrestech/blob/main/skills.png">
 
